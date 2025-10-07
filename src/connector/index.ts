@@ -1,1 +1,1 @@
-export { default as TinkConnector } from './tinkConnector';
+export { default as TinkConnector } from './TinkConnector';
