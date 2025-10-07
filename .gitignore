@@ -1,0 +1,14 @@
+/node_modules
+
+/dist
+/drizzle
+
+/test-results
+/coverage
+
+.env
+.env.prod
+.env.test
+
+combined.log
+error.log
